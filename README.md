@@ -1,2 +1,2 @@
-# DSA-Problem-Solving
-LeetCode and GFG
+# Problem-Solving
+LeetCode AND GFG 
