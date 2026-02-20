@@ -12,7 +12,6 @@ public:
             int w = right - left;
             maxWater = max(maxWater, h * w);
 
-            // move smaller height
             if(height[left] < height[right])
                 left++;
             else
